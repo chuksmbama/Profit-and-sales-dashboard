@@ -12,3 +12,5 @@ Mbama Co Ltd wants to create an annual report for 4 years(2021 – 2024). So tha
 -	State with the highest sales
 -	Top 5 customers with the highest purchase
 -	Month with the highest sales 
+
+<a href="https://github.com/chuksmbama/Profit-and-sales-dashboard/blob/main/Screenshot%20(47).png">View Dashboard </a>
