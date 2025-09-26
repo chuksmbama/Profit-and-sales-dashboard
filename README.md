@@ -14,3 +14,9 @@ Mbama Co Ltd wants to create an annual report for 4 years(2021 – 2024). So tha
 -	Month with the highest sales 
 
 <a href="https://github.com/chuksmbama/Profit-and-sales-dashboard/blob/main/Screenshot%20(47).png">View Dashboard </a>
+
+## Process 
+-	Verify data for any missing values and anomalies and sort out the same
+-	Made sure data is consistent and clean with respect to data type, data format and values used.
+-	Created Pivot tables according to the questions asked 
+-	Merge all pivot tables into one dashboard and apply slicer to make dynamic 
