@@ -24,3 +24,14 @@ Mbama Co Ltd wants to create an annual report for 4 years(2021 – 2024). So tha
 
 ## Dashboard
 <img width="1920" height="967" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/a786fa79-14a3-457a-b204-d8cb485c9fb6" />
+
+## Project Insight 
+-	The highest profit was made in the year 2024
+-	Males purchase more of our products compare to women 
+-	The highest sales came from California, New York and Texas
+-	December had the highest sales 
+-	Storage products had high sales 
+-	Profit increased over the years 
+## Final conclusion 
+Mbama Co Ltd is growing strongest in storage products, male customers and key states (CA, NY, TX) with December as the golden month. To sustain growth, double on strengths (Storage + male segment + top states) while gradually expanding to new demographics, regions and product lines.
+
